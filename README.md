@@ -1,3 +1,3 @@
-#Monster Slayer Game
+# Monster Slayer Game
 
 Little game built with VueJs
